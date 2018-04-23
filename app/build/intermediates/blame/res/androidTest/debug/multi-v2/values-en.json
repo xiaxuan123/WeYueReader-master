@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\AsProject\\WeYueReader-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\takephoto_library-4.0.3.aar\\4f7732be78ea0004815d17ba8d0d7c99\\res\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,146,209,292,365,426,531,583,693,823,935,977",
+                        "endColumns": "90,62,82,72,60,104,51,109,129,111,41,66",
+                        "endOffsets": "141,204,287,360,421,526,578,688,818,930,972,1039"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "209,300,363,446,519,580,685,737,847,977,1089,1131",
+                        "endColumns": "90,62,82,72,60,104,51,109,129,111,41,66",
+                        "endOffsets": "295,358,441,514,575,680,732,842,972,1084,1126,1193"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\BaseRecyclerViewAdapterHelper-2.9.30.aar\\f1cf7a2e560b8fc859795dcf87bee448\\res\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,162",
+                        "endColumns": "49,56,46",
+                        "endOffsets": "100,157,204"
+                    }
+                }
+            ]
+        }
+    ]
+}

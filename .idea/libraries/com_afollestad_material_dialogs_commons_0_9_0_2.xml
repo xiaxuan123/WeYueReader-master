@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.afollestad.material-dialogs:commons-0.9.0.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/commons-0.9.0.2.aar/15ac620b400a6e0ba39df7e50b1800e0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/commons-0.9.0.2.aar/15ac620b400a6e0ba39df7e50b1800e0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad.material-dialogs/commons/0.9.0.2/c915e0f42123c24e657229cbe1a21298901e86c1/commons-0.9.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
