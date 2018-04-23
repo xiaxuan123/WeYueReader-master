@@ -71,7 +71,7 @@ public class WYApplication extends Application {
 
     private void initLoadingLayout() {
         LoadingLayout.getConfig()
-                .setErrorText("出错啦~请稍后重试！！")
+                .setErrorText("出错啦~请稍后重试！")
                 .setEmptyText("抱歉，暂无数据")
                 .setNoNetworkText("无网络连接，请检查您的网络···")
                 .setErrorImage(R.drawable.ic_error_icon)
